@@ -227,7 +227,7 @@ Work division
 ●	Literature Review (All Members)
 ●	Data Gathering and Augmentation (Sikander Azam)
 ●	Data Preprocessing and Annotation (Muhammad Ahsan Fahim)
-●	Network Training and Testing (Hassan Rasheed)
+●	Everything, Network Training and Testing (Hassan Rasheed)
  
 References
 E-Pakistan. (2019). E-Pakistan and CIT. Retrieved from E-Pakistan.org: https://www.e-pakistan.org/Home#event
